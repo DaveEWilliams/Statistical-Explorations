@@ -11,4 +11,4 @@ Future plans for this repository include adding [Jupyter](https://www.jupyter.or
 
 ## First Notebook Description
 
-The first Jupyter notebook explores basic descriptive statistics by looking at a dataset that contains a sample of humans. T They were obtained from http://mreed.umtri.umich.edu/mreed/downloads.html#ansur2 and were acquired as part of the 1988 U.S. Army Anthropometry survey. They consist of data from men and women of the armed forces. For each person, the dataset records sex, height in cm, weight in kg, and BMI index.  
+The first Jupyter notebook explores basic descriptive statistics by looking at a dataset that contains a sample of humans. They were obtained from http://mreed.umtri.umich.edu/mreed/downloads.html#ansur2 and were acquired as part of the 1988 U.S. Army Anthropometry survey. They consist of data from men and women of the armed forces. For each person, the dataset records sex, height in cm, weight in kg, and BMI index.  
